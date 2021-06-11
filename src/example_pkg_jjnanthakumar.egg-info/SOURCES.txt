@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/example_pkg_jjnanthakumar.egg-info/PKG-INFO
+src/example_pkg_jjnanthakumar.egg-info/SOURCES.txt
+src/example_pkg_jjnanthakumar.egg-info/dependency_links.txt
+src/example_pkg_jjnanthakumar.egg-info/top_level.txt
