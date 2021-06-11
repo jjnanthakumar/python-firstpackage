@@ -1,7 +1,6 @@
 artifacts-keyring==0.3.1
 certifi==2021.5.30
 chardet==4.0.0
--e git+https://github.com/jjnanthakumar/artifacts-demo.git@214225a730d9a365443347b934da5d3bd3d1437a#egg=example_pkg_jjnanthakumar
 idna==2.10
 importlib-metadata==4.5.0
 keyring==23.0.1
