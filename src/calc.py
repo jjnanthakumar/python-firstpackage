@@ -15,5 +15,8 @@ class Calculator:
     
     def div(self):
         return reduce(lambda a,b:a/(b or 1), self.data)
+
+    def xor(self):
+        return reduce(lambda a,b:a^b, self.data)
         
         
